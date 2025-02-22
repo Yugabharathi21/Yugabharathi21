@@ -17,9 +17,9 @@
 
 ###
 
-<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+<a href="https://sodaputti21.pythonanywhere.com/link">
   <img
-    src="https://{PA_USERNAME}.pythonanywhere.com"
+    src="https://sodaputti21.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
