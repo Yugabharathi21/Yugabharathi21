@@ -17,13 +17,6 @@
 
 ###
 
-<a href="https://sodaputti21.pythonanywhere.com/link">
-  <img
-    src="https://sodaputti21.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
