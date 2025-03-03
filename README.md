@@ -73,6 +73,11 @@
 
 ###
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yuga-bharathi-jaisankar-2a426a291" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yuga-bharathi-jaisankar-2a426a291?trk=profile-badge">Yuga Bharathi Jaisankar</a></div>
+              
+
+###
+
 <img align="left" src="https://profile-counter.glitch.me/Yugabharathi21/count.svg?"  />
 
 ###
