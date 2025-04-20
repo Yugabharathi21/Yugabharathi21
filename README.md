@@ -1,7 +1,7 @@
 # Yuga Bharathi Jaisankar 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;FiveM+Developer;Game+Designer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;FiveM+Developer;Game+Designer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,19 +13,19 @@
 > Passionate developer crafting digital experiences through web development, game design, and FiveM development. I thrive on building efficient, high-quality solutions that make a difference.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Development;FiveM+Development;Game+Design;UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B7FF&center=true&vCenter=true&width=435&lines=Web+Development;FiveM+Development;Game+Design;UI%2FUX+Design" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-00F7FF?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-00F7FF?style=for-the-badge&logo=game-controller&logoColor=black" />
-  <img src="https://img.shields.io/badge/Learning-Game%20Design-00F7FF?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00B7FF?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-00B7FF?style=for-the-badge&logo=game-controller&logoColor=black" />
+  <img src="https://img.shields.io/badge/Learning-Game%20Design-00B7FF?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
 
 ## 🚀 What I Do
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Development;FiveM+Development;Design+%26+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Development;FiveM+Development;Design+%26+3D" alt="Typing SVG" />
 </div>
 
 - 💻 **Full-Stack Development**
@@ -65,7 +65,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Development+Tools;Design+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B7FF&center=true&vCenter=true&width=435&lines=Development+Tools;Design+Tools" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -81,35 +81,35 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Design Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-00F7FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-00B7FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-00F7FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
-![Blender](https://img.shields.io/badge/blender-00F7FF.svg?style=for-the-badge&logo=blender&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00F7FF.svg?style=for-the-badge&logo=Canva&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-00B7FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Blender](https://img.shields.io/badge/blender-00B7FF.svg?style=for-the-badge&logo=blender&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00B7FF.svg?style=for-the-badge&logo=Canva&logoColor=black)
 
 </div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B7FF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Collaborate!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yuga-bharathi-jaisankar-2a426a291/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00B7FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://x.com/spz2106">
-    <img src="https://img.shields.io/badge/Twitter-00F7FF.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-00B7FF.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" />
   </a>
   <a href="https://discord.gg/Hb2gZyXhCx">
-    <img src="https://img.shields.io/badge/Discord-00F7FF.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-00B7FF.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
   <a href="https://www.youtube.com/@SPz-G21">
-    <img src="https://img.shields.io/badge/YouTube-00F7FF.svg?style=for-the-badge&logo=YouTube&logoColor=black" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-00B7FF.svg?style=for-the-badge&logo=YouTube&logoColor=black" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/@_x_spz_x_">
-    <img src="https://img.shields.io/badge/Instagram-00F7FF.svg?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-00B7FF.svg?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram" />
   </a>
 </div>
 
@@ -125,3 +125,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yugabharathi21/Yugabharathi21/main/assets/matrix.gif" alt="Matrix Animation" width="100%" />
 </div>
+
+<style>
+  body {
+    background-color: #000000;
+    color: #00B7FF;
+  }
+</style>
