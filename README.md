@@ -1,3 +1,19 @@
+<style>
+  body {
+    background-color: #000000;
+    color: #00B7FF;
+  }
+  .trophy {
+    filter: drop-shadow(0 0 5px #00B7FF);
+  }
+  img {
+    filter: brightness(0.9) contrast(1.1);
+  }
+  .badge {
+    filter: drop-shadow(0 0 2px #00B7FF);
+  }
+</style>
+
 # Yuga Bharathi Jaisankar 👨‍💻
 
 <div align="center">
@@ -121,13 +137,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yugabharathi21/Yugabharathi21/main/assets/matrix.gif" alt="Matrix Animation" width="100%" />
 </div>
-
-<style>
-  body {
-    background-color: #000000;
-    color: #00B7FF;
-  }
-  .trophy {
-    filter: drop-shadow(0 0 5px #00B7FF);
-  }
-</style>
