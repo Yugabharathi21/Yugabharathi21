@@ -1,19 +1,3 @@
-<style>
-  body {
-    background-color: #000000;
-    color: #00B7FF;
-  }
-  .trophy {
-    filter: drop-shadow(0 0 5px #00B7FF);
-  }
-  img {
-    filter: brightness(0.9) contrast(1.1);
-  }
-  .badge {
-    filter: drop-shadow(0 0 2px #00B7FF);
-  }
-</style>
-
 # Yuga Bharathi Jaisankar 👨‍💻
 
 <div align="center">
