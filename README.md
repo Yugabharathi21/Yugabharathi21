@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yugabharathi21&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Yugabharathi21&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&title=Stars,Followers,Repositories,Commits,Issues,PullRequest,Reviews" width="100%" alt="Trophy" align="middle" /> 
 </div>
 
 ## 👋 About Me
@@ -46,12 +46,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=matrix&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=matrix&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugabharathi21&theme=matrix&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugabharathi21&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎵 Currently Vibing To
@@ -119,10 +119,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Yugabharathi21/Yugabharathi21/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Yugabharathi21/Yugabharathi21/main/assets/matrix.gif" alt="Matrix Animation" width="100%" />
 </div>
 
@@ -130,5 +126,8 @@
   body {
     background-color: #000000;
     color: #00B7FF;
+  }
+  .trophy {
+    filter: drop-shadow(0 0 5px #00B7FF);
   }
 </style>
