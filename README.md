@@ -1,9 +1,11 @@
 # Yuga Bharathi Jaisankar 👨‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;FiveM+Developer;Game+Designer;UI%2FUX+Designer)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;FiveM+Developer;Game+Designer;UI%2FUX+Designer" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yugabharathi21&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Yugabharathi21&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
 </div>
 
 ## 👋 About Me
@@ -11,19 +13,19 @@
 > Passionate developer crafting digital experiences through web development, game design, and FiveM development. I thrive on building efficient, high-quality solutions that make a difference.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Web+Development;FiveM+Development;Game+Design;UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Development;FiveM+Development;Game+Design;UI%2FUX+Design" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-red?style=for-the-badge&logo=game-controller&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Game%20Design-green?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00F7FF?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-00F7FF?style=for-the-badge&logo=game-controller&logoColor=black" />
+  <img src="https://img.shields.io/badge/Learning-Game%20Design-00F7FF?style=for-the-badge&logo=unity&logoColor=black" />
 </div>
 
 ## 🚀 What I Do
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Full+Stack+Development;FiveM+Development;Design+%26+3D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Development;FiveM+Development;Design+%26+3D" alt="Typing SVG" />
 </div>
 
 - 💻 **Full-Stack Development**
@@ -44,12 +46,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=matrix&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=matrix&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugabharathi21&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugabharathi21&theme=matrix&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎵 Currently Vibing To
@@ -63,7 +65,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Development+Tools;Design+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Development+Tools;Design+Tools" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -79,35 +81,35 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Design Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-00F7FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-00F7FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Blender](https://img.shields.io/badge/blender-00F7FF.svg?style=for-the-badge&logo=blender&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00F7FF.svg?style=for-the-badge&logo=Canva&logoColor=black)
 
 </div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Collaborate!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yuga-bharathi-jaisankar-2a426a291/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://x.com/spz2106">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-00F7FF.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" />
   </a>
   <a href="https://discord.gg/Hb2gZyXhCx">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-00F7FF.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord" />
   </a>
   <a href="https://www.youtube.com/@SPz-G21">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-00F7FF.svg?style=for-the-badge&logo=YouTube&logoColor=black" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/@_x_spz_x_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-00F7FF.svg?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram" />
   </a>
 </div>
 
@@ -118,4 +120,8 @@
 
 <div align="center">
   <img src="https://github.com/Yugabharathi21/Yugabharathi21/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yugabharathi21/Yugabharathi21/main/assets/matrix.gif" alt="Matrix Animation" width="100%" />
 </div>
