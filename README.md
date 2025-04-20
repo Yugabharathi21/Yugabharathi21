@@ -2,17 +2,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;FiveM+Developer;Game+Designer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yugabharathi21&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
+</div>
+
 ## 👋 About Me
 
 > Passionate developer crafting digital experiences through web development, game design, and FiveM development. I thrive on building efficient, high-quality solutions that make a difference.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
-  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-red" />
-  <img src="https://img.shields.io/badge/Learning-Game%20Design-green" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Web+Development;FiveM+Development;Game+Design;UI%2FUX+Design" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skills-FiveM%20Development-red?style=for-the-badge&logo=game-controller&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Game%20Design-green?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
 ## 🚀 What I Do
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Full+Stack+Development;FiveM+Development;Design+%26+3D" alt="Typing SVG" />
+</div>
 
 - 💻 **Full-Stack Development**
   - MERN Stack Applications
@@ -32,8 +44,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yugabharathi21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yugabharathi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugabharathi21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎵 Currently Vibing To
@@ -47,7 +63,12 @@
 ## 💻 Tech Stack
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Development+Tools;Design+Tools" alt="Typing SVG" />
+</div>
 
+<div align="center">
+
+### Development Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -67,6 +88,10 @@
 </div>
 
 ## 🌐 Connect With Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Collaborate!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yuga-bharathi-jaisankar-2a426a291/">
@@ -89,4 +114,8 @@
 ---
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yugabharathi21/count.svg?" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Yugabharathi21/Yugabharathi21/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
